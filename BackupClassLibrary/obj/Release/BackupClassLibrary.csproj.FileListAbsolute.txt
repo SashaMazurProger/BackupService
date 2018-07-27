@@ -1,0 +1,5 @@
+E:\BackupService\BackupClassLibrary\bin\Release\BackupClassLibrary.dll.config
+E:\BackupService\BackupClassLibrary\bin\Release\BackupClassLibrary.dll
+E:\BackupService\BackupClassLibrary\bin\Release\BackupClassLibrary.pdb
+E:\BackupService\BackupClassLibrary\obj\Release\BackupClassLibrary.dll
+E:\BackupService\BackupClassLibrary\obj\Release\BackupClassLibrary.pdb

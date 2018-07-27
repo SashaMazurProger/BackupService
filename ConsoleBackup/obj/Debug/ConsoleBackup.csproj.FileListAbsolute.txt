@@ -1,0 +1,23 @@
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\ConsoleBackup\bin\Debug\ConsoleBackup.exe.config
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\ConsoleBackup\bin\Debug\ConsoleBackup.exe
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\ConsoleBackup\bin\Debug\ConsoleBackup.pdb
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\ConsoleBackup\bin\Debug\BackupClassLibrary.dll
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\ConsoleBackup\bin\Debug\BackupClassLibrary.pdb
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\ConsoleBackup\obj\Debug\ConsoleBackup.csprojResolveAssemblyReference.cache
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\ConsoleBackup\obj\Debug\ConsoleBackup.exe
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\ConsoleBackup\obj\Debug\ConsoleBackup.pdb
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\ConsoleBackup\bin\Debug\BackupService.exe
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\ConsoleBackup\bin\Debug\BackupService.pdb
+E:\BackupService\ConsoleBackup\bin\Debug\ConsoleBackup.exe.config
+E:\BackupService\ConsoleBackup\obj\Debug\ConsoleBackup.exe
+E:\BackupService\ConsoleBackup\obj\Debug\ConsoleBackup.pdb
+E:\BackupService\ConsoleBackup\bin\Debug\ConsoleBackup.exe
+E:\BackupService\ConsoleBackup\bin\Debug\ConsoleBackup.pdb
+E:\BackupService\ConsoleBackup\bin\Debug\BackupClassLibrary.dll
+E:\BackupService\ConsoleBackup\bin\Debug\BackupService.exe
+E:\BackupService\ConsoleBackup\bin\Debug\BackupClassLibrary.pdb
+E:\BackupService\ConsoleBackup\bin\Debug\BackupService.pdb
+E:\BackupService\ConsoleBackup\obj\Debug\ConsoleBackup.csprojResolveAssemblyReference.cache
+G:\BackupService\ConsoleBackup\bin\Debug\ConsoleBackup.exe.config
+G:\BackupService\ConsoleBackup\obj\Debug\ConsoleBackup.exe
+G:\BackupService\ConsoleBackup\obj\Debug\ConsoleBackup.pdb

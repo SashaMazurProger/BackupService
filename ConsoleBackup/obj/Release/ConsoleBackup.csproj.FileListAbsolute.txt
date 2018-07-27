@@ -1,0 +1,10 @@
+E:\BackupService\ConsoleBackup\bin\Release\ConsoleBackup.exe.config
+E:\BackupService\ConsoleBackup\bin\Release\ConsoleBackup.exe
+E:\BackupService\ConsoleBackup\bin\Release\ConsoleBackup.pdb
+E:\BackupService\ConsoleBackup\bin\Release\BackupClassLibrary.dll
+E:\BackupService\ConsoleBackup\bin\Release\BackupService.exe
+E:\BackupService\ConsoleBackup\bin\Release\BackupClassLibrary.pdb
+E:\BackupService\ConsoleBackup\bin\Release\BackupService.pdb
+E:\BackupService\ConsoleBackup\obj\Release\ConsoleBackup.csprojResolveAssemblyReference.cache
+E:\BackupService\ConsoleBackup\obj\Release\ConsoleBackup.exe
+E:\BackupService\ConsoleBackup\obj\Release\ConsoleBackup.pdb

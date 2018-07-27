@@ -1,0 +1,12 @@
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupClassLibrary\bin\Debug\BackupClassLibrary.dll.config
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupClassLibrary\bin\Debug\BackupClassLibrary.dll
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupClassLibrary\bin\Debug\BackupClassLibrary.pdb
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupClassLibrary\obj\Debug\BackupClassLibrary.dll
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupClassLibrary\obj\Debug\BackupClassLibrary.pdb
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupClassLibrary\obj\Debug\BackupClassLibrary.csprojResolveAssemblyReference.cache
+E:\BackupService\BackupClassLibrary\bin\Debug\BackupClassLibrary.dll.config
+E:\BackupService\BackupClassLibrary\bin\Debug\BackupClassLibrary.dll
+E:\BackupService\BackupClassLibrary\bin\Debug\BackupClassLibrary.pdb
+E:\BackupService\BackupClassLibrary\obj\Debug\BackupClassLibrary.csprojResolveAssemblyReference.cache
+E:\BackupService\BackupClassLibrary\obj\Debug\BackupClassLibrary.dll
+E:\BackupService\BackupClassLibrary\obj\Debug\BackupClassLibrary.pdb

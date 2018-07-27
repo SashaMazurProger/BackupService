@@ -1,0 +1,8 @@
+E:\BackupService\BackupService\bin\Release\BackupService.exe.config
+E:\BackupService\BackupService\bin\Release\BackupService.exe
+E:\BackupService\BackupService\bin\Release\BackupService.pdb
+E:\BackupService\BackupService\bin\Release\BackupClassLibrary.dll
+E:\BackupService\BackupService\bin\Release\BackupClassLibrary.pdb
+E:\BackupService\BackupService\obj\Release\BackupService.csprojResolveAssemblyReference.cache
+E:\BackupService\BackupService\obj\Release\BackupService.exe
+E:\BackupService\BackupService\obj\Release\BackupService.pdb

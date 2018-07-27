@@ -1,0 +1,16 @@
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupService\bin\Debug\BackupService.exe.config
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupService\obj\Debug\BackupService.csprojResolveAssemblyReference.cache
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupService\bin\Debug\BackupService.exe
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupService\bin\Debug\BackupService.pdb
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupService\obj\Debug\BackupService.exe
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupService\obj\Debug\BackupService.pdb
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupService\bin\Debug\BackupClassLibrary.dll
+E:\Programming\DZ\C# Homeworks\17.12.02\BackupService\BackupService\bin\Debug\BackupClassLibrary.pdb
+E:\BackupService\BackupService\bin\Debug\BackupService.exe.config
+E:\BackupService\BackupService\bin\Debug\BackupService.exe
+E:\BackupService\BackupService\bin\Debug\BackupService.pdb
+E:\BackupService\BackupService\bin\Debug\BackupClassLibrary.dll
+E:\BackupService\BackupService\bin\Debug\BackupClassLibrary.pdb
+E:\BackupService\BackupService\obj\Debug\BackupService.csprojResolveAssemblyReference.cache
+E:\BackupService\BackupService\obj\Debug\BackupService.exe
+E:\BackupService\BackupService\obj\Debug\BackupService.pdb
