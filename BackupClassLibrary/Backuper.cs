@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace BackupClassLibrary
 {
+	//Класс для работы с обновленными директориями на диске.
     public class Backuper
     {
         public  void CopyDirectory(object backupObject)

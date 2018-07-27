@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace BackupClassLibrary
 {
+	//Конфигурирует бэкап обьектов и их добавление и удаление
     public class BackupController : ControllerBackupBase
     {
         IObjectRepository repository;

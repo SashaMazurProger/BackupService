@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 
 namespace BackupClassLibrary
 {
+	
+	//Главный класс, работающий в фоне, следящий за изменениями директорий, в случае которых запускает бэкап
     public class MainProcess
     {
         private bool enabled = true;  //определяет, работает ли процесс
@@ -156,7 +158,7 @@ namespace BackupClassLibrary
                 filesObjects.Add(obj);
             }
         }
-        //обработчик события, который ловит любые изменения в обьекте рез.коп.
+        //обработчик события, который ловит любые изменения в обьекте рез.коп. и запускает бэкап
         void watcher_Changed(object sender, FileSystemEventArgs e)
         {
 

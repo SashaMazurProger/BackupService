@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BackupClassLibrary
 {
+	//Обьект для бэкапа
     public class BackupObject
     {
         public string Name { get; set; }
